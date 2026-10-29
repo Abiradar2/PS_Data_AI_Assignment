@@ -1,2 +1,15 @@
+# Notebook analysis and data handling
 pandas
 numpy
+openpyxl
+xlrd
+
+# Local Dash MVP and text preparation
+dash>=2.11
+plotly
+wordcloud
+nltk
+
+# Notebook environment
+jupyterlab
+ipykernel
