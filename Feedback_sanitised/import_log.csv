@@ -1,0 +1,75 @@
+﻿Dealer,SourceFile,Sheet,Status,Details
+Ballarat,Ballarat\Ballarat - Customer Satisfaction.xlsx,Responses,imported,Rows: 292; Missing columns: none
+bendigo,bendigo\bendigo feedback.csv,CSV,imported,Rows: 144; Missing columns: none
+boxhill,boxhill\boxhill_survey_export_2025Q4.csv,CSV,imported,Rows: 64; Missing columns: none
+boxhill,boxhill\boxhill_survey_export_2026Q1.csv,CSV,imported,Rows: 77; Missing columns: none
+boxhill,boxhill\boxhill_survey_export_2026Q2.csv,CSV,imported,Rows: 83; Missing columns: none
+boxhill,boxhill\boxhill_survey_export_2026Q3.csv,CSV,imported,Rows: 85; Missing columns: none
+Chermside,Chermside\Chermside Q1 2026 FINAL v2.xlsx,Feedback,imported,Rows: 118; Missing columns: none
+Chermside,Chermside\Chermside Q1 2026 FINAL.xlsx,Feedback,imported,Rows: 112; Missing columns: none
+Chermside,Chermside\Chermside Q2 2026.xlsx,Feedback,imported,Rows: 116; Missing columns: none
+Chermside,Chermside\Chermside Q3 2026.xlsx,Feedback,imported,Rows: 124; Missing columns: none
+Chermside,Chermside\Chermside Q4 2025.xlsx,Feedback,imported,Rows: 102; Missing columns: none
+Dandenong,Dandenong\Dandenong Customer Feedback 2025-26.xlsx,Oct 25,imported,Rows: 41; Missing columns: none
+Dandenong,Dandenong\Dandenong Customer Feedback 2025-26.xlsx,Nov 25,imported,Rows: 44; Missing columns: none
+Dandenong,Dandenong\Dandenong Customer Feedback 2025-26.xlsx,Dec 25,imported,Rows: 37; Missing columns: none
+Dandenong,Dandenong\Dandenong Customer Feedback 2025-26.xlsx,Jan 26,imported,Rows: 36; Missing columns: none
+Dandenong,Dandenong\Dandenong Customer Feedback 2025-26.xlsx,Feb 26,imported,Rows: 32; Missing columns: none
+Dandenong,Dandenong\Dandenong Customer Feedback 2025-26.xlsx,Mar 26,imported,Rows: 31; Missing columns: none
+Dandenong,Dandenong\Dandenong Customer Feedback 2025-26.xlsx,Apr 26,imported,Rows: 40; Missing columns: none
+Dandenong,Dandenong\Dandenong Customer Feedback 2025-26.xlsx,May 26,imported,Rows: 41; Missing columns: none
+Dandenong,Dandenong\Dandenong Customer Feedback 2025-26.xlsx,Jun 26,imported,Rows: 53; Missing columns: none
+Dandenong,Dandenong\Dandenong Customer Feedback 2025-26.xlsx,Jul 26,imported,Rows: 48; Missing columns: none
+Dandenong,Dandenong\Dandenong Customer Feedback 2025-26.xlsx,Aug 26,imported,Rows: 44; Missing columns: none
+Dandenong,Dandenong\Dandenong Customer Feedback 2025-26.xlsx,Sep 26,imported,Rows: 37; Missing columns: none
+Dandenong,Dandenong\Dandenong Customer Feedback 2025-26.xlsx,Info Dump,imported,"Rows: 2; Missing columns: Department, Date, Rating"
+ESSENDON,ESSENDON\ESSENDON - feedback register.xlsx,Sales,imported,Rows: 91; Missing columns: Department
+ESSENDON,ESSENDON\ESSENDON - feedback register.xlsx,Service,imported,Rows: 225; Missing columns: Department
+ESSENDON,ESSENDON\ESSENDON - feedback register.xlsx,Parts,imported,Rows: 30; Missing columns: Department
+Geelong,Geelong\Geelong Feedback.xlsx,2025,imported,Rows: 68; Missing columns: none
+Geelong,Geelong\Geelong Feedback.xlsx,2026,imported,Rows: 236; Missing columns: none
+Geelong,Geelong\Geelong Feedback.xlsx,Info Dump,imported,"Rows: 0; Missing columns: Department, Comments, Date, Rating"
+Hunter,Hunter\Hunter Motors feedback 25-26.xlsx,Feedback,imported,Rows: 303; Missing columns: none
+IPS,IPS\IPS_feedback_log.xlsx,Log,imported,Rows: 277; Missing columns: none
+liverpool,liverpool\liverpool_q1_2026.csv,CSV,imported,Rows: 73; Missing columns: none
+liverpool,liverpool\liverpool_q2_2026.csv,CSV,imported,Rows: 71; Missing columns: none
+liverpool,liverpool\liverpool_q3_2026.csv,CSV,imported,Rows: 85; Missing columns: none
+liverpool,liverpool\liverpool_q4_2025.csv,CSV,imported,Rows: 82; Missing columns: none
+Noosa,Noosa\Noosa feedback cards.xlsx,Cards,imported,Rows: 49; Missing columns: none
+North QLD,North QLD\North QLD feedback (Rocky + TSV).xlsx,Q4 2025,imported,Rows: 146; Missing columns: none
+North QLD,North QLD\North QLD feedback (Rocky + TSV).xlsx,Q1 2026,imported,Rows: 133; Missing columns: none
+North QLD,North QLD\North QLD feedback (Rocky + TSV).xlsx,Q2 2026,imported,Rows: 138; Missing columns: none
+North QLD,North QLD\North QLD feedback (Rocky + TSV).xlsx,Sheet1,imported,Rows: 139; Missing columns: none
+Parramatta,Parramatta\Parramatta_Feedback_2025-10.xlsx,Oct 25,imported,Rows: 47; Missing columns: none
+Parramatta,Parramatta\Parramatta_Feedback_2025-11.xlsx,Nov 25,imported,Rows: 36; Missing columns: none
+Parramatta,Parramatta\Parramatta_Feedback_2025-12.xlsx,Dec 25,imported,Rows: 37; Missing columns: none
+Parramatta,Parramatta\Parramatta_Feedback_2026-01.xlsx,Jan 26,imported,Rows: 42; Missing columns: none
+Parramatta,Parramatta\Parramatta_Feedback_2026-02.xlsx,Feb 26,imported,Rows: 33; Missing columns: none
+Parramatta,Parramatta\Parramatta_Feedback_2026-03.xlsx,Mar 26,imported,Rows: 40; Missing columns: none
+Parramatta,Parramatta\Parramatta_Feedback_2026-04.xlsx,Apr 26,imported,Rows: 34; Missing columns: none
+Parramatta,Parramatta\Parramatta_Feedback_2026-05.xlsx,May 26,imported,Rows: 45; Missing columns: none
+Parramatta,Parramatta\Parramatta_Feedback_2026-06.xlsx,Jun 26,imported,Rows: 49; Missing columns: none
+Parramatta,Parramatta\Parramatta_Feedback_2026-07.xlsx,Jul 26,imported,Rows: 37; Missing columns: none
+Parramatta,Parramatta\Parramatta_Feedback_2026-08.xlsx,Aug 26,imported,Rows: 39; Missing columns: none
+Parramatta,Parramatta\Parramatta_Feedback_2026-09.xlsx,Sep 26,imported,Rows: 40; Missing columns: none
+Penrith,Penrith\Penrith Feedback.xlsx,Oct 25,imported,Rows: 32; Missing columns: none
+Penrith,Penrith\Penrith Feedback.xlsx,Nov 25,imported,Rows: 42; Missing columns: none
+Penrith,Penrith\Penrith Feedback.xlsx,Dec 25,imported,Rows: 36; Missing columns: none
+Penrith,Penrith\Penrith Feedback.xlsx,Jan 26,imported,Rows: 30; Missing columns: none
+Penrith,Penrith\Penrith Feedback.xlsx,Feb 26,imported,Rows: 45; Missing columns: none
+Penrith,Penrith\Penrith Feedback.xlsx,Mar 26,imported,Rows: 45; Missing columns: none
+Penrith,Penrith\Penrith Feedback.xlsx,Apr 26,imported,Rows: 37; Missing columns: none
+Penrith,Penrith\Penrith Feedback.xlsx,May 26,imported,Rows: 43; Missing columns: none
+Penrith,Penrith\Penrith Feedback.xlsx,Jun 26,imported,Rows: 43; Missing columns: none
+Penrith,Penrith\Penrith Feedback.xlsx,Jul 26,imported,Rows: 43; Missing columns: none
+Penrith,Penrith\Penrith Feedback.xlsx,Aug 26,imported,Rows: 56; Missing columns: none
+Penrith,Penrith\Penrith Feedback.xlsx,Sep 26,imported,Rows: 45; Missing columns: none
+Shepparton,Shepparton\Shepparton feedback FINAL - site closed.xlsx,Log,imported,Rows: 53; Missing columns: none
+Southport,Southport\Southport Feedback Tracker.xlsx,Feedback,imported,Rows: 254; Missing columns: none
+Southport,Southport\Southport Feedback Tracker.xlsx,Google reviews (copied),imported,"Rows: 0; Missing columns: Department, Comments, Date, Rating"
+Springwood,Springwood\Springwood feedback.xlsx,All,imported,Rows: 310; Missing columns: none
+Tamworth,Tamworth\Tamworth.xlsx,Sheet1,imported,Rows: 143; Missing columns: none
+Toowoomba,Toowoomba\Toowoomba feedback 2026.xlsx,2026,imported,Rows: 250; Missing columns: none
+Toowoomba,Toowoomba\Toowoomba Q4 2025 summary.xlsx,Summary,imported,"Rows: 8; Missing columns: Department, Comments, Date"
+Wollongong,Wollongong\Wollongong_Apr26-Sep26.csv,CSV,imported,Rows: 147; Missing columns: none
+Wollongong,Wollongong\Wollongong_Oct25-Mar26.csv,CSV,imported,Rows: 138; Missing columns: none
